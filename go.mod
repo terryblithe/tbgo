@@ -1,4 +1,4 @@
-module github.com/terryblithe/tbgo/v2
+module github.com/terryblithe/tbgo
 
 go 1.17
 
